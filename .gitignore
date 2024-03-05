@@ -1,0 +1,30 @@
+# Archivos y carpetas generados por Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archivos de compilación
+/build/
+/dist/
+/out/
+
+# Archivos de configuración específicos del entorno local
+.env
+.env.local
+.env.*.local
+
+# Carpetas y archivos específicos de IDEs
+.idea/
+.vscode/
+
+# Archivos de registro y datos locales
+*.log
+*.sqlite
+*.db
+
+# Archivos de respaldo y temporales
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
